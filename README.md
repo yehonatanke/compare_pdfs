@@ -30,5 +30,5 @@ This Python script compares the content of two PDF files and identifies any diff
    pip install PyMuPDF
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE]([LICENSE](https://github.com/yehonatanke/compare_pdfs/blob/main/LICENSE)https://github.com/yehonatanke/compare_pdfs/blob/main/LICENSE) file for details.
 
