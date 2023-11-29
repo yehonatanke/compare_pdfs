@@ -32,3 +32,7 @@ This Python script compares the content of two PDF files and identifies any diff
 
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/yehonatanke/compare_pdfs/blob/main/LICENSE) file for details.
 
+## Author
+
+yehonataKe
+
