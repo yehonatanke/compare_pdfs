@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="https://img.shields.io/badge/language-Python-%233776AB.svg?logo=python">
+  <img src="https://custom-icon-badges.demolab.com/github/license/denvercoder1/custom-icon-badges?logo=law">
+</div>
+
 # PDF Comparator
 
 ## Overview
